@@ -17,15 +17,14 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop](./assets/solution-screenshots/Desktop.jpg)
-[Mobile](./assets/solution-screenshots/Mobile.jpg)
+![Desktop](./assets/solution-screenshots/Desktop.jpg) 
+![Mobile](./assets/solution-screenshots/Mobile.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VGjonaj/Blog-preview-card)
-- Live Site URL: [Add live site URL here](https://vgjonaj.github.io/Blog-preview-card/)
-
+- Solution URL: [(https://github.com/VGjonaj/Blog-preview-card]
+- Live Site URL: [https://vgjonaj.github.io/Blog-preview-card/]
 
 ### Built with
 
