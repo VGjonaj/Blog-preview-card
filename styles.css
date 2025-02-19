@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Figtree;
+    src: url(./assets/fonts/static/Figtree-Medium.ttf);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.preview-card {
+    width: 20em;
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    border-radius: 15px;
+    border: solid 1px black;
+    box-shadow: 10px 10px 0px 0px black;
+    gap: 1em;
+}
+
+.user {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1em;
+
+}
+
+h2:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+p span {
+    background-color: hsl(47, 88%, 63%);
+    padding: 0.4em 0.7rem;
+    border-radius: 5px;
+}
+
+.figtree {
+    font-family: Figtree;
+    font-weight: 400;
+    color: hsl(0, 0%, 42%);
+    margin: 0;
+}
+
+.figtree-bold {
+    font-family: Figtree;
+    font-weight: 800;
+    color: hsl(0, 0%, 7%);
+    margin: 0;
+}
+
+#illustration {
+    border-radius: 10px;
+}
+
+#avatar {
+    height: 2.5em;
+}
